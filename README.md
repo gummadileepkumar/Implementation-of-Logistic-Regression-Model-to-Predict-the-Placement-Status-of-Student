@@ -94,22 +94,22 @@ clf.predict([[1	,78.33,	1,	2,	77.48,	2,	86.5,	0,	66.28]])
 ## Output:
 
 ### Read CSV File:
-
+![model](ml_4.1.png)
 
 
 
 
 ### To read 1st ten Data(Head):
-
+![model](ml_4.2.png)
 
 
 
 ### To read last ten Data(Tail):
-
+![model](ml_4.3.png)
 
 
 ### Dropping the serial number and salary column:
-
+![model](ml_4.4.png)
 
 
 
@@ -118,23 +118,23 @@ clf.predict([[1	,78.33,	1,	2,	77.48,	2,	86.5,	0,	66.28]])
 
 
 ### Dataset Information:
-
+![model](ml_4.5.png)
 
 
 ### Dataset after changing object into category:
 
-
+![model](ml_4.6.png)
 
 
 
 ### Dataset after changing category into integer:
-
+![model](ml_4.7.png)
 
 
 
 
 ### Displaying the Dataset:
-
+![model](ml_4.8.png)
 
 
 
@@ -142,20 +142,20 @@ clf.predict([[1	,78.33,	1,	2,	77.48,	2,	86.5,	0,	66.28]])
 ### Selecting the features and labels:
 
 
-
+![model](ml_4.9.png)
 
 ### Dividing the data into train and test:
 
-
+![model](ml_4.10.png)
 
 
 ### Creating a Classifier using Sklearn:
 
-
+![model](ml_4.11.png)
 
 
 ### Predicting for random value:
-
+![model](ml_4.12.png)
 
 
 
