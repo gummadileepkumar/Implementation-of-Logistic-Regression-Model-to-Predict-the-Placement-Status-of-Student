@@ -116,6 +116,13 @@ clf.predict([[1	,78.33,	1,	2,	77.48,	2,	86.5,	0,	66.28]])
 ![270174057-209fe561-064f-48bd-90e4-d0cfdfb29aef](https://github.com/PriyankaAnnadurai/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118351569/2ffe4201-f449-4cfd-b0ad-34890c9cd551)
 
 
+
+
+
+
+
+
+
 ### Dataset Information:
 
 ![270174079-580bcfbd-afc0-4bb1-a44d-d4623687e515](https://github.com/PriyankaAnnadurai/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118351569/23521bcf-eb9a-421e-bd8b-7ba98ae40b79)
